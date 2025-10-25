@@ -1,4 +1,4 @@
-pyTelegramBotAPI==4.21.0
-pytesseract
-Pillow
-
+pyTelegramBotAPI==4.17.0
+pytesseract==0.3.10
+Pillow==10.0.1
+Flask==3.0.0
