@@ -1,4 +1,7 @@
-pyTelegramBotAPI==4.17.0
-pytesseract==0.3.10
-Pillow==10.0.1
-Flask==3.0.0
+python-telegram-bot==20.6
+requests
+pytesseract
+Pillow
+opencv-python
+sqlite3-binary
+ocr space
