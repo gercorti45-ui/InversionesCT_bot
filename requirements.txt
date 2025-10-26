@@ -4,5 +4,5 @@ pytesseract
 Pillow
 opencv-python
 sqlite3-binary
-ocr space
+ocr-space
 flask
