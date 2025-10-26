@@ -5,3 +5,4 @@ Pillow
 opencv-python
 sqlite3-binary
 ocr space
+flask
